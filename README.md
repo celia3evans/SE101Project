@@ -6,7 +6,7 @@ Mission: Create a safe and more hygenic path for students to walk on.
 ##Image Processing Stack
 1. Find data set of Goose Poop
 2. Use Google Cloud platform and use computer vision (Auto ML Vision)
-  - Single label Classification 
+  - Single Label Classification 
   - Is the image for - training, validation, or testing
   - https://www.youtube.com/watch?v=qRFR0_FvkSs 
 3. HTML file for viewing online
@@ -24,7 +24,7 @@ Mission: Create a safe and more hygenic path for students to walk on.
 - Vision Tracking 
 - Server Control
 
-### Harware 
+### Hardware 
 - Motorized Vehcile 
 - Rasberry Pi
 - Rasberry Pi Camera

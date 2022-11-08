@@ -9,6 +9,8 @@ Mission: Create a safe and more hygenic path for students to walk on.
   - Single Label Classification 
   - Is the image for - training, validation, or testing
   - https://www.youtube.com/watch?v=qRFR0_FvkSs 
+
+data set - https://www.youtube.com/watch?v=-ZyFYniGUsw
 3. HTML file for viewing online
 
 

@@ -31,3 +31,8 @@ Mission: Create a safe and more hygenic path for students to walk on.
 
 ## Team 
 Sisi Li, Celia Evans, Elai Mizrahi, Priyanka Chakravarti, and Kelly Guan
+
+#Departments
+## Low Level - directly connecting to the Pi - Sisi & Celia 
+## Hardware - Elai 
+## Image Processing - Kelly & Priyanka 

@@ -8,9 +8,6 @@ Mission: Create a safe and more hygenic path for students to walk on.
 2. Find data set of goose poop - 
 
 
-
-
-
 ### Software
 - Image Processing
 - Vision Tracking 
@@ -23,3 +20,4 @@ Mission: Create a safe and more hygenic path for students to walk on.
 
 ## Team 
 Sisi Li, Celia Evans, Elai Mizrahi, Priyanka Chakravarti, and Kelly Guan
+c

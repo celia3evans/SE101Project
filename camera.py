@@ -8,7 +8,7 @@ import argparse
 import sys
 
 
-IM_WIDTH = 1280
+IM_WIDTH = 1280 //pussy power
 IM_HEIGHT = 720
 
 

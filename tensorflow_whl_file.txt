@@ -1,0 +1,7 @@
+# TensorFlow whl file
+
+Version: 0.11.0
+Python: 2.7
+
+Google Drive Link: https://drive.google.com/file/d/142O7Rshyrb3Lpn04uCC7dm_lj5-PlUBQ/view?usp=sharing
+File size: 116MB
